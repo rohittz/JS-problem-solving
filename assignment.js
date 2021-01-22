@@ -1,4 +1,4 @@
-// github repository link
+// https://github.com/rohittz/JS-problem-solving
 // convert km to m
 function kilometerToMeter(kilometer) {
     // For any invalid values
